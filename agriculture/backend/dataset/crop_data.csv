@@ -1,0 +1,13 @@
+crop_type,stage,base_dose_ml_per_ha,min_temp,max_temp,optimal_humidity
+tomato,seedling,2000,15,30,60
+tomato,vegetative,2500,18,32,65
+tomato,flowering,3000,20,35,70
+tomato,pre-harvest,1500,15,28,55
+rice,seedling,1800,20,35,80
+rice,vegetative,2200,22,38,85
+rice,flowering,2800,24,40,90
+rice,pre-harvest,1200,18,32,75
+wheat,seedling,1500,10,25,50
+wheat,vegetative,2000,12,28,55
+wheat,flowering,2500,15,30,60
+wheat,pre-harvest,1000,8-22,45

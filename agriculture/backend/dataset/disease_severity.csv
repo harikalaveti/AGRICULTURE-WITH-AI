@@ -1,0 +1,5 @@
+disease_type,severity_level,severity_score,recommended_action
+healthy,no_disease,0.0,monitor
+mild_disease,early_stage,0.3,preventive_spray
+moderate_disease,active_infection,0.6,curative_spray
+severe_disease,advanced_infection,0.9,aggressive_treatment

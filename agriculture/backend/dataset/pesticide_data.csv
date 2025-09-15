@@ -1,0 +1,6 @@
+pesticide_name,active_ingredient,max_dose_ml_per_ha,min_interval_days,weather_sensitivity
+example_pesticide,active_compound_1,3000,5,high
+neem_oil,azadirachtin,2000,7,medium
+copper_sulfate,copper,1500,10,low
+bordeaux_mixture,copper_lime,2500,14,medium
+pyrethrin,pyrethrum,1800,3,high

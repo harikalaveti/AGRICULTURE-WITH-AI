@@ -1,0 +1,5 @@
+crop,disease_severity,humidity,rainfall,recommended_dose
+wheat,1,60,5,1.5
+wheat,3,75,10,3.0
+rice,2,80,15,2.5
+maize,1,55,2,1.0
