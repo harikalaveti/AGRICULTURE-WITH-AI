@@ -1,0 +1,11 @@
+tensorflow==2.20.0
+scikit-learn==1.7.2
+pandas==2.3.2
+numpy==2.3.3
+fastapi==0.116.1
+uvicorn==0.35.0
+pillow==11.3.0
+requests==2.32.5
+joblib==1.5.2
+python-multipart==0.0.20
+prophet==1.1.7
